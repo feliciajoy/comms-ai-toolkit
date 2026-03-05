@@ -2,7 +2,7 @@
 
 **Claude-powered communications workflow tools for media monitoring, briefing generation, message tracking, and rapid response.**
 
-Built by [Felicia Joy](https://www.chicagobooth.edu/research/roman/who-we-are/phd-students/felicia-joy) — Behavioral Scientist, PhD Candidate at Chicago Booth, and former EVP at Edelman.
+Built by [Felicia Joy](https://www.chicagobooth.edu/research/roman/who-we-are/phd-students/felicia-joy) — Behavioral Scientist, Communications Strategist, Builder, PhD Candidate at Chicago Booth
 
 ---
 
